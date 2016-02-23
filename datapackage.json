@@ -136,7 +136,7 @@
           },
           {
             "name": "Provider Second Line Business Mailing Address",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
