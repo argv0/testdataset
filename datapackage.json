@@ -666,7 +666,7 @@
           },
           {
             "name": "Other Provider Identifier_1",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
