@@ -1,5 +1,4 @@
 {
-  "datapackage_version" : "0.1.0",
   "resources": [
     {
       "name": "npi",
@@ -1289,7 +1288,7 @@
     }
   ],
   "name": "odp",
-  "title": "",
+  "title": "npi-main",
   "description": "",
   "homepage": "",
   "version": "0.1.0",
