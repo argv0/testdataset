@@ -1,4 +1,4 @@
-{
+]{
   "datapackage_version" : "0.1.0",
   "resources": [
     {
@@ -21,12 +21,12 @@
           },
           {
             "name": "Replacement NPI",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Employer Identification Number (EIN)",
-            "type": "number",
+            "name": "Employer Identification String (EIN)",
+            "type": "string",
             "description": ""
           },
           {
@@ -36,17 +36,17 @@
           },
           {
             "name": "Is Organization Subpart",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Parent Organization LBN",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Parent Organization TIN",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
