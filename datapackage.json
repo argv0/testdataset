@@ -176,7 +176,7 @@
           },
           {
             "name": "Provider Second Line Business Practice Location Address",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
