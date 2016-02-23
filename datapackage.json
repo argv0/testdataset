@@ -51,7 +51,7 @@
           },
           {
             "name": "Provider Organization Name (Legal Business Name)",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -71,12 +71,12 @@
           },
           {
             "name": "Provider Name Prefix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Name Suffix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -86,47 +86,47 @@
           },
           {
             "name": "Provider Other Organization Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Organization Name Type Code",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Last Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other First Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Middle Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Name Prefix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Name Suffix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Credential Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Provider Other Last Name Type Code",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -160,12 +160,12 @@
             "description": ""
           },
           {
-            "name": "Provider Business Mailing Address Telephone Number",
+            "name": "Provider Business Mailing Address Telephone String",
             "type": "string",
             "description": ""
           },
           {
-            "name": "Provider Business Mailing Address Fax Number",
+            "name": "Provider Business Mailing Address Fax String",
             "type": "string",
             "description": ""
           },
@@ -200,12 +200,12 @@
             "description": ""
           },
           {
-            "name": "Provider Business Practice Location Address Telephone Number",
+            "name": "Provider Business Practice Location Address Telephone String",
             "type": "string",
             "description": ""
           },
           {
-            "name": "Provider Business Practice Location Address Fax Number",
+            "name": "Provider Business Practice Location Address Fax String",
             "type": "string",
             "description": ""
           },
@@ -221,22 +221,22 @@
           },
           {
             "name": "NPI Deactivation Reason Code",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "NPI Deactivation Reason",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "NPI Deactivation Date",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "NPI Reactivation Date",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -251,42 +251,42 @@
           },
           {
             "name": "Authorized Official Last Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official First Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official Middle Name",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official Title or Position",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official Name Prefix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official Name Suffix Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Authorized Official Credential Text",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Authorized Official Telephone Number",
-            "type": "number",
+            "name": "Authorized Official Telephone String",
+            "type": "string",
             "description": ""
           },
           {
@@ -300,12 +300,12 @@
             "description": ""
           },
           {
-            "name": "Provider License Number_1",
+            "name": "Provider License String_1",
             "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_1",
+            "name": "Provider License String State Code_1",
             "type": "string",
             "description": ""
           },
@@ -316,352 +316,352 @@
           },
           {
             "name": "Healthcare Provider Taxonomy Code_2",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_2",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_2",
-            "type": "number",
+            "name": "Provider License String_2",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_2",
-            "type": "number",
+            "name": "Provider License String State Code_2",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_2",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_3",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_3",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_3",
-            "type": "number",
+            "name": "Provider License String_3",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_3",
-            "type": "number",
+            "name": "Provider License String State Code_3",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_3",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_4",
-            "type": "number",
+            "name": "Provider License String_4",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_4",
-            "type": "number",
+            "name": "Provider License String State Code_4",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_5",
-            "type": "number",
+            "name": "Provider License String_5",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_5",
-            "type": "number",
+            "name": "Provider License String State Code_5",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_6",
-            "type": "number",
+            "name": "Provider License String_6",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_6",
-            "type": "number",
+            "name": "Provider License String State Code_6",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_7",
-            "type": "number",
+            "name": "Provider License String_7",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_7",
-            "type": "number",
+            "name": "Provider License String State Code_7",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_8",
-            "type": "number",
+            "name": "Provider License String_8",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_8",
-            "type": "number",
+            "name": "Provider License String State Code_8",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_9",
-            "type": "number",
+            "name": "Provider License String_9",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_9",
-            "type": "number",
+            "name": "Provider License String State Code_9",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_10",
-            "type": "number",
+            "name": "Provider License String_10",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_10",
-            "type": "number",
+            "name": "Provider License String State Code_10",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_11",
-            "type": "number",
+            "name": "Provider License String_11",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_11",
-            "type": "number",
+            "name": "Provider License String State Code_11",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_12",
-            "type": "number",
+            "name": "Provider License String_12",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_12",
-            "type": "number",
+            "name": "Provider License String State Code_12",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_13",
-            "type": "number",
+            "name": "Provider License String_13",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_13",
-            "type": "number",
+            "name": "Provider License String State Code_13",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_14",
-            "type": "number",
+            "name": "Provider License String_14",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_14",
-            "type": "number",
+            "name": "Provider License String State Code_14",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy Code_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Taxonomy_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number_15",
-            "type": "number",
+            "name": "Provider License String_15",
+            "type": "string",
             "description": ""
           },
           {
-            "name": "Provider License Number State Code_15",
-            "type": "number",
+            "name": "Provider License String State Code_15",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Healthcare Provider Primary Taxonomy Switch_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -681,7 +681,7 @@
           },
           {
             "name": "Other Provider Identifier Issuer_1",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -701,12 +701,12 @@
           },
           {
             "name": "Other Provider Identifier Issuer_2",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_3",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -721,567 +721,567 @@
           },
           {
             "name": "Other Provider Identifier Issuer_3",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_4",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_5",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_6",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_7",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_8",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_9",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_10",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_14",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_15",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_16",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_16",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_16",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_16",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_17",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_17",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_17",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_17",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_18",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_18",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_18",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_18",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_19",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_19",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_19",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_19",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_20",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_20",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_20",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_20",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_21",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_21",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_21",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_21",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_22",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_22",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_22",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_22",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_23",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_23",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_23",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_23",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_24",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_24",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_24",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_24",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_25",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_25",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_25",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_25",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_26",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_26",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_26",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_26",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_27",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_27",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_27",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_27",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_28",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_28",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_28",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_28",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_29",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_29",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_29",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_29",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_30",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_30",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_30",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_30",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier_31",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Type_31",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier State_31",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Other Provider Identifier Issuer_31",
-            "type": "number",
+            "type": "string",
             "description": ""
           }
         ]
